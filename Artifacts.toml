@@ -1,0 +1,108 @@
+[[S2Geometry]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e30da77c9f1c70d2706ea8034caad40a7e646ba5"
+libc = "glibc"
+os = "linux"
+
+    [[S2Geometry.download]]
+    sha256 = "399b151de45f62768a8be2081d2a5311bcc8038c751dab294d55c2088c63280e"
+    url = "https://github.com/JuliaBinaryWrappers/S2Geometry_jll.jl/releases/download/S2Geometry-v0.9.0+0/S2Geometry.v0.9.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[S2Geometry]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "18c7ac194a24f53ac080004fa0acc9fdda5b9570"
+libc = "glibc"
+os = "linux"
+
+    [[S2Geometry.download]]
+    sha256 = "699b4be9b7097cdc634f265e2bf0cadc97c78c56049c22043e1c91dbcf731de6"
+    url = "https://github.com/JuliaBinaryWrappers/S2Geometry_jll.jl/releases/download/S2Geometry-v0.9.0+0/S2Geometry.v0.9.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[S2Geometry]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "97213a920bb5619cc2dab51eb33fb656c528594f"
+libc = "musl"
+os = "linux"
+
+    [[S2Geometry.download]]
+    sha256 = "7eaf4c12abd07b7bc3c03c28d6d60779f356b610df45a8b4fa09bc70dc6b9087"
+    url = "https://github.com/JuliaBinaryWrappers/S2Geometry_jll.jl/releases/download/S2Geometry-v0.9.0+0/S2Geometry.v0.9.0.aarch64-linux-musl-cxx03.tar.gz"
+[[S2Geometry]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3dfee3ecbbd5effaeeae806d125b8a8ea5fcab06"
+libc = "musl"
+os = "linux"
+
+    [[S2Geometry.download]]
+    sha256 = "d4185320e0ba07e9177a2071ed7b08478ada64720bc4e39cdd7ae00b41269d3d"
+    url = "https://github.com/JuliaBinaryWrappers/S2Geometry_jll.jl/releases/download/S2Geometry-v0.9.0+0/S2Geometry.v0.9.0.aarch64-linux-musl-cxx11.tar.gz"
+[[S2Geometry]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9cd5d48375a2fd6378e4557d74444b773344088a"
+libc = "glibc"
+os = "linux"
+
+    [[S2Geometry.download]]
+    sha256 = "a9ca1fab019defa389cd7d63f5463e4dd00492e2a35e7b8261f205a7d4e52b60"
+    url = "https://github.com/JuliaBinaryWrappers/S2Geometry_jll.jl/releases/download/S2Geometry-v0.9.0+0/S2Geometry.v0.9.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[S2Geometry]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1ea84f10202bd588e075734851a358eae2550357"
+libc = "glibc"
+os = "linux"
+
+    [[S2Geometry.download]]
+    sha256 = "53e81f37b4435c0f086c8c440e161884d39d3d8b61acbef0a84038aebbb98f81"
+    url = "https://github.com/JuliaBinaryWrappers/S2Geometry_jll.jl/releases/download/S2Geometry-v0.9.0+0/S2Geometry.v0.9.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[S2Geometry]]
+arch = "x86_64"
+git-tree-sha1 = "7da3b86985879d63d924b6852839d6867bbfb042"
+os = "macos"
+
+    [[S2Geometry.download]]
+    sha256 = "4b620a9238459a64552e3cb3392c1ac039c8b6a64f25c288b37e027d402bb39b"
+    url = "https://github.com/JuliaBinaryWrappers/S2Geometry_jll.jl/releases/download/S2Geometry-v0.9.0+0/S2Geometry.v0.9.0.x86_64-apple-darwin.tar.gz"
+[[S2Geometry]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c896cbc1b09ec9e59708c39667eb0290bf1cbcab"
+libc = "glibc"
+os = "linux"
+
+    [[S2Geometry.download]]
+    sha256 = "7a2aa2b8298992ddb08cc13f5d979394a61dceaf3ebf12f9a66cc4939e76058b"
+    url = "https://github.com/JuliaBinaryWrappers/S2Geometry_jll.jl/releases/download/S2Geometry-v0.9.0+0/S2Geometry.v0.9.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[S2Geometry]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "74dbc8a66a222b81b96e61cc13981d8ed8b3aba2"
+libc = "glibc"
+os = "linux"
+
+    [[S2Geometry.download]]
+    sha256 = "bd555abd337102be470ee7badf949d157082569a42425a4cb99427710aecbea9"
+    url = "https://github.com/JuliaBinaryWrappers/S2Geometry_jll.jl/releases/download/S2Geometry-v0.9.0+0/S2Geometry.v0.9.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[S2Geometry]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f88f8e37415919cb3f249d4ca1ef523ed30c0caf"
+libc = "musl"
+os = "linux"
+
+    [[S2Geometry.download]]
+    sha256 = "d20b888e54607a4449b9057067b9706edc7b484f25cd9a744a0bae38b05bb3b2"
+    url = "https://github.com/JuliaBinaryWrappers/S2Geometry_jll.jl/releases/download/S2Geometry-v0.9.0+0/S2Geometry.v0.9.0.x86_64-linux-musl-cxx03.tar.gz"
+[[S2Geometry]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "699902ab0bbbc71ebfa2e49da8253041baaff8b9"
+libc = "musl"
+os = "linux"
+
+    [[S2Geometry.download]]
+    sha256 = "f6e4764f8d29003bc18bd311958d8061355b8960556b14bffd59b1bdb36e2965"
+    url = "https://github.com/JuliaBinaryWrappers/S2Geometry_jll.jl/releases/download/S2Geometry-v0.9.0+0/S2Geometry.v0.9.0.x86_64-linux-musl-cxx11.tar.gz"
